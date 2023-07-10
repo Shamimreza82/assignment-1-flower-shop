@@ -61,3 +61,22 @@ body {
 
 
                 /* Header Featured Flowers section start */
+
+.featured-container {
+        width: 1920px;
+        height: 4867px;
+        background-color: rgb(255, 255, 255);
+        margin: auto;
+}
+
+.featured-head-text {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 24px;
+}
+
+.featured-para-text {
+    text-align: center;
+    line-height: 30px;
+}
