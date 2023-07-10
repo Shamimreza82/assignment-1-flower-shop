@@ -126,3 +126,30 @@ body {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
+
+                    /* second section start */
+
+.second-container {
+        width: 1440px;
+        height: 320px;
+        border-radius: 8px;
+        background: rgba(39, 39, 39, 0.05);
+        margin: auto;
+        margin-top: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 150px;
+}
+
+.second-img-text {
+    text-align: center;
+}
+
+.second-icon {
+    margin-bottom: 20px;
+}
+
+.second-text {
+    font-size: 20px;
+}
