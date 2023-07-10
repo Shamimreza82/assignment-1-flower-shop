@@ -60,7 +60,7 @@ body {
 }
 
 
-                /* Header Featured Flowers section start */
+                /* Featured Flowers section start */
 
 .featured-container {
         width: 1920px;
@@ -79,4 +79,51 @@ body {
 .featured-para-text {
     text-align: center;
     line-height: 30px;
+}
+
+.cards-box {
+    width: 464px;
+    height: 538px; 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.featured-img-1 {
+    margin-top: 110px;
+    margin-left: 80px;
+}
+
+.cards-section {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.box-text {
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+.second-img {
+    margin-left: 25px;
+    padding-bottom: 65px;
+}
+
+.third-img{
+    padding-bottom: -30px;
+}
+
+.box-text1 {
+    margin-top: 71px;
+}
+
+.cards-box-3 {
+    width: 464px;
+    height: 538px; 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    background-position: center;
 }
