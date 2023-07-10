@@ -8,7 +8,7 @@ body {
 }
 
 
-                  /* Header section start */
+                         /* Header section start */
  
 .header-container {
     width: 1920px;
@@ -31,10 +31,33 @@ body {
      font-size: 18px;
      line-height: 30px;
 }
- 
 
 .img-header {
         margin-bottom: -53px;
         margin-left: -190px;
 }
 
+.btn {
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    background: #E55473;
+    border: none;
+    color: aliceblue;
+}
+
+.btn:hover {
+    background-color: darkgreen;
+    transition: 0.3s;
+}
+
+.header-p-text {
+    font-size: 18px;
+    padding: 32px 0;
+}
+
+
+                /* Header Featured Flowers section start */
