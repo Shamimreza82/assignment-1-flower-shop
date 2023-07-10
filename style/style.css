@@ -3,5 +3,19 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+
                   /* Header section start */
-                  
+ 
+.header-container {
+    width: 1920px;
+    height: 850px;
+    background-color:  rgba(229, 84, 115, 0.10);
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}                  
