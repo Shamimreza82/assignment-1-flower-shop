@@ -214,28 +214,28 @@ body {
 .insta-box {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/flower.png");
+    background-image: url("../asset/flower.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
 .insta-box1 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle4.png");
+    background-image: url("../asset/Rectangle4.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
 .insta-box2 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle5.png");
+    background-image: url("../asset/Rectangle5.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
 .insta-box3 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle6.png");
+    background-image: url("../asset/Rectangle6.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
