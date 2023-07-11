@@ -221,21 +221,21 @@ body {
 .insta-box1 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle\ 4.png");
+    background-image: url("/asset/Rectangle4.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
 .insta-box2 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle\ 5.png");
+    background-image: url("/asset/Rectangle5.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
 .insta-box3 {
     width: 342px;
     height: 396px; 
-    background-image: url("/asset/Rectangle\ 6.png");
+    background-image: url("/asset/Rectangle6.png");
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(164, 164, 164);
 }
@@ -259,7 +259,7 @@ body {
     background-color: #E55473;  
     margin: auto;
     margin-top: 110px;
-    background-image: url("/asset/Rectangle\ 9.png");
+    background-image: url("/asset/Rectangle.png");
     text-align: center;
     display: flex;
     align-items: center;
