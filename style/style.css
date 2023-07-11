@@ -259,7 +259,7 @@ body {
     background-color: #E55473;  
     margin: auto;
     margin-top: 110px;
-    background-image: url("/asset/Rectangle.png");
+    background-image: url("../asset/Rectangle.png");
     text-align: center;
     display: flex;
     align-items: center;
@@ -314,7 +314,7 @@ body {
     height: 500px;
     margin: auto;
     margin-top: 120px;
-    background-image: url("/asset/bg.jpg"),
+    background-image: url("../asset/bg.jpg"),
     linear-gradient(rgba(93, 92, 92, 0.9),rgba(0, 0, 0, 0.1));
     background-blend-mode: overlay;
     background-position: center;
@@ -348,7 +348,7 @@ body {
      height: 400px;
      background-color: #9f9f9f;
      margin-top: 45px;
-     background-image: url("/asset/bg1.jpg"),
+     background-image: url("../asset/bg1.jpg"),
      linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.1));
      background-blend-mode: overlay;
      background-position: center;
@@ -365,7 +365,7 @@ body {
      height: 400px;
      background-color: #9f9f9f;
      margin-top: 45px;
-     background-image: url("/asset/bg2.jpg"),linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.3));
+     background-image: url("../asset/bg2.jpg"),linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.3));
      background-blend-mode: overlay;;
      background-position: center;
      background-size: cover;
@@ -381,7 +381,7 @@ body {
      height: 400px;
      background-color: #9f9f9f;
      margin-top: 45px;
-     background-image: url("/asset/bg3.jpg"),linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.3));
+     background-image: url("../asset/bg3.jpg"),linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.3));
      background-blend-mode: overlay;;
      background-position: center;
      background-size: cover;
